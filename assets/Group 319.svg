@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="13" viewBox="0 0 20 13">
+  <g id="Group_319" data-name="Group 319" transform="translate(-31 -327)">
+    <rect id="Rectangle_82" data-name="Rectangle 82" width="20" height="13" rx="2" transform="translate(31 327)" fill="#707070"/>
+    <path id="Icon_ionic-ios-person" data-name="Icon ionic-ios-person" d="M11.949,10.724c-.14-.529-.937-.787-1.213-.87-.3-.091-.734-.113-1.011-.166A1.111,1.111,0,0,1,9.257,9.5a3.006,3.006,0,0,1-.031-.82,2.376,2.376,0,0,0,.221-.361,4.087,4.087,0,0,0,.163-.63s.159,0,.215-.239c.06-.261.155-.363.144-.557s-.134-.186-.134-.186a2.536,2.536,0,0,0,.132-.853C9.985,5.173,9.36,4.5,8.229,4.5c-1.147,0-1.758.673-1.741,1.357a2.644,2.644,0,0,0,.13.853s-.122,0-.134.186.083.3.144.557c.054.239.215.239.215.239a4.087,4.087,0,0,0,.163.63,2.376,2.376,0,0,0,.221.361A3.006,3.006,0,0,1,7.2,9.5a1.111,1.111,0,0,1-.468.185c-.278.053-.708.075-1.011.166-.276.083-1.073.341-1.213.87a.14.14,0,0,0,.153.161H11.8A.14.14,0,0,0,11.949,10.724Z" transform="translate(28.199 325.734)" fill="#fff"/>
+    <g id="Group_319-2" data-name="Group 319" transform="translate(41.5 331.617)">
+      <line id="Line_13" data-name="Line 13" x2="6" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_14" data-name="Line 14" x2="6" transform="translate(0 2)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_15" data-name="Line 15" x2="6" transform="translate(0 4)" fill="none" stroke="#fff" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
